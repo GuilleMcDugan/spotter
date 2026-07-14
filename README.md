@@ -79,6 +79,13 @@ Add to `~/.claude/settings.json`:
 
 ---
 
+## Guía de instalación
+
+Documentación completa en Notion (español):
+**[SPOTTER — Guía de instalación](https://app.notion.com/p/SPOTTER-Gu-a-de-instalaci-n-39d2128ee2a781429afff6568677858d)**
+
+---
+
 ## API keys
 
 Keys are stored locally — never in the repo.
