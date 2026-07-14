@@ -55,6 +55,22 @@
         { "x": 140, "y": 170, "type": "file" },
         { "x": 400, "y": 170, "type": "link", "path": "/Applications" }
       ]
+    },
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "build/icon.png"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "installerIcon": "build/icon.ico",
+      "uninstallerIcon": "build/icon.ico",
+      "deleteAppDataOnUninstall": false
     }
   },
   "devDependencies": {
