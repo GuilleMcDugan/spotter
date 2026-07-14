@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+mcp-server/node_modules/
+
+# Build outputs
+out/
+dist/
+mcp-server/dist/
+
+# Electron builder cache
+build/icon.iconset/
+
+# Runtime / user data
+*.log
+.DS_Store
+
+# API keys / secrets — never committed
+.env
+.env.*
+~/.spotter/

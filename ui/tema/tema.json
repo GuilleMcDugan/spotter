@@ -1,0 +1,39 @@
+{
+  "tema": "sala-oscura",
+  "nota": "Inversión de la biblia visual. Fondo negro tinta, texto crema. Naranja señal SOLO para playhead.",
+  "colores": {
+    "fondo": "#1a1a1a",
+    "crema": "#f5f3ee",
+    "senal": "#e6633a",
+    "texto": {
+      "100": "rgba(245, 243, 238, 1)",
+      "78":  "rgba(245, 243, 238, 0.78)",
+      "60":  "rgba(245, 243, 238, 0.60)",
+      "50":  "rgba(245, 243, 238, 0.50)",
+      "15":  "rgba(245, 243, 238, 0.15)",
+      "08":  "rgba(245, 243, 238, 0.08)",
+      "04":  "rgba(245, 243, 238, 0.04)"
+    },
+    "pistas": {
+      "amb":      "rgba(245, 243, 238, 0.040)",
+      "foley":    "rgba(245, 243, 238, 0.030)",
+      "diseno":   "rgba(245, 243, 238, 0.025)",
+      "practico": "rgba(245, 243, 238, 0.020)",
+      "ref":      "rgba(245, 243, 238, 0.015)"
+    }
+  },
+  "tipografia": {
+    "editorial": "'EB Garamond', Georgia, serif",
+    "ui":        "'Montserrat', system-ui, sans-serif",
+    "mono":      "'JetBrains Mono', 'Menlo', monospace"
+  },
+  "espaciado": {
+    "trackHeight": "52px",
+    "trackLabelWidth": "168px",
+    "rulerHeight": "32px"
+  },
+  "playhead": {
+    "color": "#e6633a",
+    "width": "1px"
+  }
+}
